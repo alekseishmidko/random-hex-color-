@@ -1,0 +1,14 @@
+.background{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background: #681313;
+}
+.colorblock-btn{
+    position: absolute;
+    display: block;
+    width: 150px;
+    cursor: pointer;
+    margin-top: 50vh;
+    margin-left: calc(50% - 75px);
+}
